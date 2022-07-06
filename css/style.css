@@ -517,4 +517,20 @@ footer button:hover {
 .your-ad {
     padding: 100px;
 }
+    
+        .read-comment {
+        padding-top: 30px;
+    }
+    
+    .read-comment button {
+         font-size:16px;
+         padding: 10px;
+    }
+    
+    footer {
+        margin-top:40px;   
+    }
+    .read-comment span {
+        font-size: 16px;
+    }
 }
