@@ -518,14 +518,35 @@ footer button:hover {
     padding: 100px;
 }
     
-        .read-comment {
-        padding-top: 30px;
-    }
-    
-    .read-comment button {
-         font-size:16px;
-         padding: 10px;
-    }
+.like-comment {
+    padding: 0px 10px;
+  }
+  
+  .like-comment button {
+      padding: 15px 10px;
+      margin-right: 10px;
+      font-size: 15px;
+  }
+  
+  .number {
+      padding:5px 10px;
+      border-radius: 100%;
+      font-size: 10px;
+      margin-top: 10px;
+  
+  }
+
+  
+.subscibe-email {
+    padding: 20px;
+    width: 100%;
+    margin: 0px 20px;
+}
+
+.subscibe-email h3 {
+    font-size: 20px;
+}
+
     
     footer {
         margin-top:40px;   
